@@ -321,8 +321,3 @@ First Class Collections: a class that contains an array as an attribute should n
 - **Code Reviews**:
   - Enforce these rules during code reviews for domain and application code.
   - Be pragmatic about infrastructure and DTO code.
-
-## References
-- [Object Calisthenics - Original 9 Rules by Jeff Bay](https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf)
-- [ThoughtWorks - Object Calisthenics](https://www.thoughtworks.com/insights/blog/object-calisthenics)
-- [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
